@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Mathfuncsdll/Mathfuncsdll.vcxproj" Id="7c4d5010-0c6b-41f2-92a7-fcb1b1461794" />
+  <Project Path="Myexecrefsdll/Myexecrefsdll.vcxproj" Id="6dd9e660-c413-492c-898a-16010f243eff" />
+</Solution>
